@@ -1,2 +1,13 @@
-# Pay-Me-Project
-payMe is a technical solution initiated by some concerned Nigerians aimed to catalyze the innate desire in humans to fairly compete in an intellectual learning exercise. payMe is structured to more than engage users to learn but to incentivize users to be compelled to strive to achieve desired results on set targets. 
+# payME Smart contracts
+
+This contain payME smart contract codes to power the Intial coin offering and the payME platform.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+GAS_REPORT=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.ts
+```
